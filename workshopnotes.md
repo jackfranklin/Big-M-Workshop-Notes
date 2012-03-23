@@ -63,7 +63,7 @@ When user touches touchscreen, these events fire:
 - touchstart
 - mouseover
 - mousemove (one)
-- mouseodnw
+- mousedown
 - mouseup
 - click
 
